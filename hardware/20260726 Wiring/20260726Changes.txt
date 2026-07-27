@@ -1,0 +1,3 @@
+Serial Cascade and optos put on modular boards with screw terminals.
+Added wire label system for ease of navigation.
+Laid out 11 Cascade boards for a total if 88 outputs.
